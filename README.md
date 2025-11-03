@@ -1,4 +1,4 @@
-# SomaBox Deployment Guide - Remote Setup via SSH
+# SomaBox Deployment Guide (NEXTjs/ NodeJS) - Remote Setup via SSH
 
 ## Step 1: Check Current System Status
 
